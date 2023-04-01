@@ -4,7 +4,7 @@ AGH University of Science and Technology Course
 This repository will contain 13 tasks, it includes machine learning models implemented in Python.  
 
 language: Python
-libraries: scikit-learn, Keras, NumPy, Matplotlib, SciPy, Pandas
+libraries: scikit-learn, TensorFlow, Keras, NumPy, Matplotlib, SciPy, Pandas
 
 ## Content  
 1. Introduction  
