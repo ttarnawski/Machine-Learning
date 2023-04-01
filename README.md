@@ -1,10 +1,10 @@
 # Machine-Learning
 AGH University of Science and Technology Course
 
-This repository will contain 13 tasks, it includes files and exercises in different forms mostly implemented in Python/SQL.  
+This repository will contain 13 tasks, it includes machine learning models implemented in Python.  
 
 language: Python
-libraries: NumPy, Matplotlib, SciPy, SQLAlchemy, Pandas, Psycopg, seaborn, scikit-learn, pmdarima, Statsmodels, pytest  
+libraries: scikit-learn, Keras, NumPy, Matplotlib, SciPy, Pandas
 
 ## Content  
 1. Introduction  
