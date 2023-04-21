@@ -12,7 +12,7 @@ libraries: scikit-learn, TensorFlow, Keras, NumPy, Matplotlib, SciPy, Pandas
 3. Logistic Regression
 4. Regularization  
 5. Classification  
-6.  
+6. SVM
 7.  
 8. 
 9. 
